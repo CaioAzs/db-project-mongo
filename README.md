@@ -1,4 +1,4 @@
-# Projeto 1 de Banco de Dados - MongoDB
+# Banco de Dados - MongoDB
 
 ---
 
