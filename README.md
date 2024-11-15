@@ -1,8 +1,12 @@
 # Projeto 1 de Banco de Dados - MongoDB
+
 ---
-Caio de Souza Conceição - RA: 22.122.033-8
+
+Caio de Souza Conceição - RA: 22.122.033-8 <br>
 Lucas Dias Batista - RA: 22.122.065-0
+
 ---
+
 ## Estrutura do Banco de Dados
 
 O banco de dados contém as seguintes coleções:
